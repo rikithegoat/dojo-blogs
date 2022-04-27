@@ -1,0 +1,24 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "welcome to the new blog",
+            "body": "Lorem, ipsum dolor sit amet adipisicing elit. Assumenda ullam est voluptatibus architecto quidem, sunt, eveniet quae ea atque asperiores cupiditate necessitatibus quas, ab ipsa ipsum. Ipsum, debitis repellendus ratione obcaecati aperiam labore nobis, placeat totam aut optio porro nisi aliquid quia blanditiis iure cupiditate repudiandae voluptatibus delectus nemo. Doloremque quae quam repudiandae enim tenetur non quasi laboriosam porro illum, fugit debitis voluptatem corporis quo magnam sunt ullam exercitationem voluptas error impedit adipisci aspernatur saepe. Expedita, repellat quasi! Nostrum exercitationem expedita voluptatem. Voluptatum tenetur cumque, mollitia quibusdam soluta fuga itaque et? Facere harum dolorem culpa mollitia est excepturi voluptas vel porro animi consequatur minima voluptates libero, quis corporis veritatis itaque atque dolor repudiandae consectetur laudantium voluptatibus laboriosam debitis delectus accusantium!",
+            "tags": [
+                "webdev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "top 5 CSS tips",
+            "body": "Lorem, ipsum dolor sit amet adipisicing elit. Assumenda ullam est voluptatibus architecto quidem, sunt, eveniet quae ea atque asperiores cupiditate necessitatibus quas, ab ipsa ipsum. Ipsum, debitis repellendus ratione obcaecati aperiam labore nobis, placeat totam aut optio porro nisi aliquid quia blanditiis iure cupiditate repudiandae voluptatibus delectus nemo. Doloremque quae quam repudiandae enim tenetur non quasi laboriosam porro illum, fugit debitis voluptatem corporis quo magnam sunt ullam exercitationem voluptas error impedit adipisci aspernatur saepe. Expedita, repellat quasi! Nostrum exercitationem expedita voluptatem. Voluptatum tenetur cumque, mollitia quibusdam soluta fuga itaque et? Facere harum dolorem culpa mollitia est excepturi voluptas vel porro animi consequatur minima voluptates libero, quis corporis veritatis itaque atque dolor repudiandae consectetur laudantium voluptatibus laboriosam debitis delectus accusantium!",
+            "tags": [
+                "webdev",
+                "coding",
+                "css"
+            ]
+        }
+    ]
+}
